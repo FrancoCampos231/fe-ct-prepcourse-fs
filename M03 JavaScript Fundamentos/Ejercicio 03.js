@@ -71,7 +71,7 @@ function esImpar(num) {
    else {
       return false;
    }
-}
+} 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {

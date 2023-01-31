@@ -83,7 +83,7 @@ function esVocal(letra) {
       return 'Es vocal';
     } else {
       return 'Dato incorrecto';
-    }
+    } 
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
