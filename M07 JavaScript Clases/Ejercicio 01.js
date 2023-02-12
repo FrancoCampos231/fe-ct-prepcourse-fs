@@ -21,7 +21,7 @@ function crearUsuario() {
          return 'Hola, mi nombre es ' + this.nombre;
       }
    }
-   let nuevoUsuario = new Usuario (this.usuario, this.nombre, this.email, this.password);
+   
    return Usuario;
 }
 
